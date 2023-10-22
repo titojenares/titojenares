@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @titojenares
+- 👀 I’m interested in PHP
+- 🌱 I’m currently learning in the univeristy
